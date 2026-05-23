@@ -1,7 +1,9 @@
 ## Message 1
+Okay so I am working on this new project, which is trying to get some super preliminary basic time accounting and capital required to produce the essentials required to produce the daily essentials required for a life in america. (This is mostly with the goal of beginning a housing coop and getting all that to work)
+## Message 2
 So the first thing would probably be to do a super minimal research review to see if other things are done in this region. Specifically we would want to try and form cooperatives and local community groups that would try and meet some of these needs. But trying to reproduce all of the things an economy would need right out of the gate is obviously infeasible. So there is this question at the beginning of the process about which parts of the process are good to try and implement first. Specifically we are looking for components that are 1) feasible, and dont require a bunch of startup captial, or startup expertiece, and 2) actually provide economic savings over the same services being provided by the market. (One way to try and model this is by giving the internal system it's own internal currency, something like "CHours" for currency hours, so someone can either spend "CHours" making minimum wage to buy the thing directly, or make it themselves.) and 3) to what extent making that item gives the community more independence from the broader structures of the economy around it. (IE producing something like food or medicine inside the coop is more important then iphones, because we don't require them to live, and also food and medicine are flows, you need the items continuously to survive, but once you have one iphone you only need to buy a new one if the old one breaks). But in order to do all this analysis I need to have some ground foundations for what people actually spend their money on, and what labor is required to produce those things.  But before we try and pull things in we should talk through what we actually want to get started with for this project?
 
-## Message 2
+## Message 3
 I can go ahead and kinda answer all of these 
 1. Absolutely strict survivial for now, thats already a huge and massive research project and trying to expand the scope further is begging for failure. Plus its maybe a bit bad to be perscriptive about how and why humans should produce meaningful works of art or human fulfillment.
 2 and 3. Hugely important questions I am considering below.
@@ -24,7 +26,7 @@ or if grown ourselves
 
 2 months of seedling tray time.
 3 months of hydroponic tower time.
-0.5 - 3 Unskilled LH (Labor Hours) - Very rough estimate, that is likely to be extremely variable depending on the scale you are operating at.
+0.5 - 10 Unskilled LH (Labor Hours) - Very rough estimate, that is likely to be extremely variable depending on the scale you are operating at, more details below.
 40 Gallons of Water
 Electricity for Seedlings
 Some quantity of Calcium Nitrate
@@ -47,7 +49,7 @@ Monopotassium Phosphate - 6 USD per pound
 
 16 square feet of land
 
-A pump, and tubing and other misc home depot equipment that can get collapsed to 25 USD - (I think this kinda ability is going to be helpful, just because there is a point where expanding out the production processes for pure stocks becomes less and less helpful )
+A pump, and tubing and other misc home depot equipment that can get collapsed to 40 USD - (I think this kinda ability is going to be helpful, just because there is a point where expanding out the production processes for pure stocks becomes less and less helpful )
 
 And at this point either a 
 
@@ -55,7 +57,7 @@ And at this point either a
 
 or alternatively
 
-6*27 Hours of 3d printer time. (Each of which cost 600USD, and probably cost 3-4 LH of setup and assembly)
+6*23 Hours of 3d printer time. (Each of which cost 600USD, and probably cost 3-4 LH of setup and assembly). Also adjusting the print settings and speed to get this faster might be worth it.
 4kg of Black PLA - Currently 11 USD per kg 
 4 LH of "Technician Time" - (which itself can be kinda treated like a stock that takes 20 LH to become profficent in)
 
@@ -143,6 +145,22 @@ So the main thing I am thinking about is introducing another irreducible unit un
 - ...continued...
 
 
+We can also try to model academic credentials using a similar method, by saying that 
+
+**Go to School**
+50,000 USD
+8,000 & LH 
+=>
+1 BS Degree
+
+
+Then we can say that maybe an activity requires 
+
+- 8 & LH
+- 8 & T("BS Degree")
+
+But this still feels pretty messy
+
 ### How to handle different production pathways.
 
 Don't have a ton of interesting ideas here, aside from the fact that any reduction process is going to involve some amount of optimization and doing a path search across all different possible production pathways.
@@ -167,5 +185,35 @@ However, since we need to handle the analysis between different production chain
 =>
 480x Lettuce
 
-Note: If we are thinking about ergonomics of this it might be a good idea to programatically declare some of these production processes, where we can put in the quantity of the production that we are wanting to run, a
+Note: If we are thinking about ergonomics of this it might be a good idea to programatically declare some of these production processes, where we can put in the quantity of the production that we are wanting to run, and each item can take in a function of the amount of the economic object consumed. So for this instead of needing to manually specifiy you could use something like "F("run quantity") => consumes (5 + 2\sqrt(run quantity) + 0.5 * run quantity) labor hours."
+
+Although I was thinking of this as more of a thing to help with pure ergonomics, fundamentally there is going to be a large numerical analysis problem trying to simultaneously solve all of these constraints, and while you could represent these as a large family of possible production methods, if it is possible to reduce a certain production method to a smooth curve with derivatives could let me introduce some optimizations that might make it easier to compute.
+
+#### Sidenote on Organizational Structures and Building Something that works
+
+After 3 years participating in an anarchist collective, and another 2 years running an ultimately unsuccessful software Delaware C startup, I feel like lots of the discourse online about the problems with organizational structure (especially from people on the left) are really missing the point. My thoughts on this are still really unstructured, so here is a bullet pointed list:
+
+1. Conflict about leadership structure in an organization is ALWAYS caused
+
+
+2. 
+
+
+
+
+## Why are we doing this, stability in the modern world, and foreign currency pumps 
+
+One big worry I have doing all the accounting for this, is what happens if even after doing all the economic analysis there essentially nothing is going to meaningfully beat out the production mode of "take a job and then buy the commodity on the open market". And if that is the result, then what was exactly the point of this entire analysis? (Aside from the political goals of local economic independence, and giving the members a say in the structures that govern them?)
+
+Well I think that lots of previous approaches have tried to go with the commune route, where the entire thing is started for and driven by ideological concerns. And the big problem with this is an inherent infeasibility of balancing accounts. Namely these enterprises always have these fundamental structures that cause your external currency USD to leak out of the commune:
+
+- Buy things that would be completely uneconomical for your cooperative to produce. (Either industrial byproducts of existing systems, or things that require millions to billions in startup capital)
+- Allowances/Distributions to cooperative members so they can pay for art, and participate in broader society in general
+- Pay Taxes
+
+And if you are going to try and build a system like this that actually wokrs, addressing this balance of payments problem really needs to be your first, second, third, fourth and fifth priority, if you actually want this to work.
+
+So my main idea is that if this is really going to work it needs to grow out of a traditional worker's cooperative with decently healthy financials.
+
+So in order to keep the balance stable you need something like a foreign currency pump that takes the raw resources that the coop has access to, primarially LH, and exchanges that for USD. In the unscalable current environment that often looks like early founders working jobs and donating that money to the cooperative. In the medium term that can also look like a situation where people live with us, and we produce and cover their living expenses 
 
