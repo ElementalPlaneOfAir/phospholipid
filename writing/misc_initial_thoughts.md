@@ -191,12 +191,32 @@ Although I was thinking of this as more of a thing to help with pure ergonomics,
 
 #### Sidenote on Organizational Structures and Building Something that works
 
-After 3 years participating in an anarchist collective, and another 2 years running an ultimately unsuccessful software Delaware C startup, I feel like lots of the discourse online about the problems with organizational structure (especially from people on the left) are really missing the point. My thoughts on this are still really unstructured, so here is a bullet pointed list:
+After 3 years participating in an anarchist collective, and another 2 years running an ultimately unsuccessful software Delaware C startup, I feel like lots of the discourse online about the problems with organizational structure (especially from people on the left) are really missing the point. My thoughts on this are still really unstructured, but if they could be condensed into a single point:
 
-1. Conflict about leadership structure in an organization is ALWAYS caused
+**Conflict about leadership structure in an organization is almost always directly related to how well an organization is running.**
+
+I am absolutely amazed at people's ability to tolerate (or at least not complain about) absolutely dictatorial and super hierarchical organizations when things are going really well, both financially, (ie steady cashflow, descent profits, and well compensated employees), and interpersonally, (ie, the work itself is meaning)
+
+// Write more here about the importance of preserving a do-ocracy, and prioritizing working with cool people who you personally get along with.
 
 
-2. 
+So in some sense this entire project is trying to solve the governence problem by letting leftists actually work on a project that is going to acomplish it's goals, do so with enough surplus that you don't require people continuously working themselves on an unstainable level to acomplish those things.
+
+
+
+
+# Why the fuck are we doing this?
+
+Right now worker cooperatives encompass maybe 0.1% to 0.0001% of the economic output of the US economy. So why has the movement failed in this way?
+
+I originally hypothesized that it was mostly due to lack of financing opportunities, but according to a close friend who has been really insturmental in setting up a bunch of cooperatives, and founded 2 himself. In the last couple years, more prominence and state+federal support have made getting funding for a worker coop from existing banks about as easy as it is for any standard LLC (if not slightly easier). His big hypothesis for the failure of cooperatives looks like 
+
+- When you start a buisness
+
+
+
+
+The approach of increasing the number of cooperatives foun5
 
 
 
