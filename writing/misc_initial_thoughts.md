@@ -200,7 +200,23 @@ I am absolutely amazed at people's ability to tolerate (or at least not complain
 // Write more here about the importance of preserving a do-ocracy, and prioritizing working with cool people who you personally get along with.
 
 
-So in some sense this entire project is trying to solve the governence problem by letting leftists actually work on a project that is going to acomplish it's goals, do so with enough surplus that you don't require people continuously working themselves on an unstainable level to acomplish those things.
+So in some sense this entire project is trying to solve the governence problem by letting leftists actually work on a project that is going to acomplish it's goals, do so with enough surplus that you don't require people continuously working themselves on an unsustainable level to acomplish those things.
+
+
+##### Brief Aside on the tightness of markets.
+
+So this might be a gross oversimplification, or just flat out wrong, but it is the framework I am using to interprete the viability of this project.
+
+So in a super classical view of economics you can divide the economy into 2 parts, the market for labor, and the market for consumer goods. People produce labor and buy consumer goods. And companies buy labor and produce consumer goods. And to some extent both of these markets should perfectly balance supply and demand, but in general I think there tends to be a qualtitative oversupply of labor, and a qualtiative oversupply of consumer goods.
+
+For the average consumer it is drastically easier to go ahead and spend hundreds of thousands of dollars buying consumer goods then it is to get any job, even a job that doesnt pay that much. This is also difficult regardless of price, if you look its super easy to end up paying less for consumer goods (its much easier to find cars for 1-2k as opposed to the average 48k for a new vehicle, or spend 80% less on food by buying in bulk and eating dry goods instead of eating out), then it is to raise your wage on the labor market.
+
+Likewise for companies it is extremely rare for the labor market to be the limiting factor on a companies growth as opposed to the demand for the product the company is selling. In the world of startups getting to a point where you are limited by demand is the ever elusive "product market fit" and typically means your company should be valued at 50-100 times the revenue the company makes in a year. There are a few tiny situations in history where companies are fully limited by labor, oftentimes sole popriotirships where the individuals like doing the work themselves and aren't interested in becoming a manager. Or alternatively places where industries are growing rapidly (coding jobs in 2022, nursing in 2026), or the industry is gate kept by licensure programs (MDs, or JD's). 
+
+This is almost certainly not an original observation, and I unfortunately haven't done a lot of reading on why this is the case. But if I had to guess, I think there is a component of it that is due to the fact that labor markets are much much more illiquid then consumer goods markets and it is really important for companies to be able to meet their labor demands in a liquid manner, which tends to result in economic policy that favors a "reserve army of the unemployed". There also might be factors relating to there is a lot more demand for jobs other then as a means to buy money to pay for consumer goods. Specifically around 30-50% of people's income goes towards real estate, either in the form of rent or morgatge payments. Which for the most part doesn't circulate back to labor, and goes into increasing the value held in real estate. Likewise, there is also a demand for people to save, which in turn exists because the prospect of being unable to afford life's basic necessities is a prospect that weighs heavily on people. Where companies (with the exception of REIT's) will often spend a greater proportion of their revenue on labor, either directly through their own wages or indirectly through buisness inputs or taxes. If you think of this as a markov chain, this imbalance could potentially be a reasfor the imbalance. 
+
+But even though I am nowhere near smart enough to figure this out, it does mean that **if** it was possible for a buisness to have a gaurenteed way increase consumer demand for their products every time they hired a new employee that business would be extremely extremely happy.
+
 
 
 
@@ -211,12 +227,13 @@ Right now worker cooperatives encompass maybe 0.1% to 0.0001% of the economic ou
 
 I originally hypothesized that it was mostly due to lack of financing opportunities, but according to a close friend who has been really insturmental in setting up a bunch of cooperatives, and founded 2 himself. In the last couple years, more prominence and state+federal support have made getting funding for a worker coop from existing banks about as easy as it is for any standard LLC (if not slightly easier). His big hypothesis for the failure of cooperatives looks like 
 
-- When you start a buisness
+- When you start a buisness you have the option of forming an LLC (which gives you full control of your buisness indefinetly, and also some tax advantages if you set it up as a passthrough), or a C-Corp (in which case you start off with 100% of the shares, and have all the exact same ways of raising money as an LLC, plus you have the **option** of selling shares to any investors in exchange for money). However, in a worker cooperative there is an expectation that the shares and more importantly voting power are going to be somewhat evenly distributed among employees (this isn't quite true since supervoting founding shares are totally a thing), meaning this is the only structure where you are encouraged to give up control of your buisness from the get go.
 
 
 
 
-The approach of increasing the number of cooperatives foun5
+The approach of increasing the number of cooperatives found
+
 
 
 
