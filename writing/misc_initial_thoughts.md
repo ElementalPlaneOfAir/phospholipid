@@ -200,7 +200,7 @@ I am absolutely amazed at people's ability to tolerate (or at least not complain
 // Write more here about the importance of preserving a do-ocracy, and prioritizing working with cool people who you personally get along with.
 
 
-So in some sense this entire project is trying to solve the governence problem by letting leftists actually work on a project that is going to acomplish it's goals, do so with enough surplus that you don't require people continuously working themselves on an unsustainable level to acomplish those things.
+So in some sense this entire project is trying to solve the governence problem by letting leftists actually work on a project that is going to acomplish it's goals. And do so with enough surplus that you don't require people continuously working themselves on an unsustainable level to accomplish those things. Also on most of these projects (particularly in leftist spaces) disagreements don't happen because of deep value's conflicts, its often because we live in an imperfect world with imperfect information, and people interpret this limited information differently. However, when dealing with discussions about resource allocation in cooperatives, there are limited situations where having this data could help resolve conflicts. 
 
 
 ##### Brief Aside on the tightness of markets.
@@ -221,18 +221,6 @@ But even though I am nowhere near smart enough to figure this out, it does mean 
 
 
 
-# Why the fuck are we doing this?
-
-Right now worker cooperatives encompass maybe 0.1% to 0.0001% of the economic output of the US economy. So why has the movement failed in this way?
-
-I originally hypothesized that it was mostly due to lack of financing opportunities, but according to a close friend who has been really insturmental in setting up a bunch of cooperatives, and founded 2 himself. In the last couple years, more prominence and state+federal support have made getting funding for a worker coop from existing banks about as easy as it is for any standard LLC (if not slightly easier). His big hypothesis for the failure of cooperatives looks like 
-
-- When you start a buisness you have the option of forming an LLC (which gives you full control of your buisness indefinetly, and also some tax advantages if you set it up as a passthrough), or a C-Corp (in which case you start off with 100% of the shares, and have all the exact same ways of raising money as an LLC, plus you have the **option** of selling shares to any investors in exchange for money). However, in a worker cooperative there is an expectation that the shares and more importantly voting power are going to be somewhat evenly distributed among employees (this isn't quite true since supervoting founding shares are totally a thing), meaning this is the only structure where you are encouraged to give up control of your buisness from the get go.
-
-
-
-
-The approach of increasing the number of cooperatives found
 
 
 
@@ -254,3 +242,24 @@ So my main idea is that if this is really going to work it needs to grow out of 
 
 So in order to keep the balance stable you need something like a foreign currency pump that takes the raw resources that the coop has access to, primarially LH, and exchanges that for USD. In the unscalable current environment that often looks like early founders working jobs and donating that money to the cooperative. In the medium term that can also look like a situation where people live with us, and we produce and cover their living expenses 
 
+
+# Short Term Goals
+
+So I talked to a few founders of some local cooperatives and I think the best way to test it is to use it to model their own internal production processes using these methods and test and see if its worth internalizing things that might be immediately up the chain in their production process. (IE for example a bookstore having an addon that does custom printing to steal from an existing example.) This way we can hopefully develop it around the actual needs of existing buisneses and help them calculate their existing expansions and from there actually validate if trying to meet the needs of labor hours directly is feasible.
+
+Another big benefit of this system could be to better model intra cooperative trades, also often referred to as the "solidarity economy". It turns out most people who found cooperatives tend to be extremely committed anti-capitalists, and really do prioritize trying to buy from other cooperatives in the same area to keep money flowing in a community and build alternatives to the capitalist mode of production. But this is almost always done on an ad hoc basis where sometimes the exact market rate is exchanged between the 2 companies, sometimes its done as an "at cost" transaction (which doesn't account for fixed costs like rent). So being able to do something like reduce all the inputs to their base level costs, subtract off all costs in USD and Land, then distribute the surplus among all the workers depending on their LH contributions could be helpful. Or even work out other ways of distribution where resources are distributed in different ways. The advantage of having the complete theory is that it enables you to have a lot more flexibility.
+
+For this particular use case I do think that if I can go ahead and get a working demo of this working for a local coop in the next month or so, I can present the results to a board of local coops and see if I can also integrate their operations into this system.
+
+# Why the fuck are we doing this?
+
+Right now worker cooperatives encompass maybe 0.1% to 0.0001% of the economic output of the US economy. So why has the movement failed in this way?
+
+I originally hypothesized that it was mostly due to lack of financing opportunities, but according to a close friend who has been really insturmental in setting up a bunch of cooperatives, and founded 2 himself. In the last couple years, more prominence and state+federal support have made getting funding for a worker coop from existing banks about as easy as it is for any standard LLC (if not slightly easier). His big hypothesis for the failure of cooperatives looks like 
+
+- When you start a buisness you have the option of forming an LLC (which gives you full control of your buisness indefinetly, and also some tax advantages if you set it up as a passthrough), or a C-Corp (in which case you start off with 100% of the shares, and have all the exact same ways of raising money as an LLC, plus you have the **option** of selling shares to any investors in exchange for money). However, in a worker cooperative there is an expectation that the shares and more importantly voting power are going to be somewhat evenly distributed among employees (this isn't quite true since supervoting founding shares are totally a thing), meaning this is the only structure where you are encouraged to give up control of your business from the get go.
+
+
+
+
+The approach of increasing the number of cooperatives found
